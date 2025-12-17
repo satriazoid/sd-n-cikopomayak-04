@@ -38,7 +38,7 @@ function sendEmail() {
     // Format Gmail Compose
     const gmailUrl =
         "https://mail.google.com/mail/?view=cm&fs=1" +
-        "&to=jourstudio1@gmail.com" +
+        "&to=sdncikopomayak04@gmail.com" +
         "&su=" + encodeURIComponent("Pesan Baru dari " + name) +
         "&body=" + encodeURIComponent(
             "Nama: " + name + "\n" +
